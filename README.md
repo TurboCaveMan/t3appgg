@@ -3,7 +3,7 @@
 ## To DO
 
 - [x] Make deploy
-- [] UI
+- [x] UI
 - [] database
 - [] connect UI - database
 - [] Auth
