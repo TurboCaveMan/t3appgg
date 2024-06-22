@@ -4,6 +4,7 @@
 
 - [x] Make deploy
 - [x] UI
+- [x] tidy build
 - [] database
 - [] connect UI - database
 - [] Auth
