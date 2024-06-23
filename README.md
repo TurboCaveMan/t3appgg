@@ -5,8 +5,8 @@
 - [x] Make deploy
 - [x] UI
 - [x] tidy build
-- [] database
-- [] connect UI - database
+- [x] database
+- [x] connect UI - database
 - [] Auth
 - [] image upload
 - [] routing
