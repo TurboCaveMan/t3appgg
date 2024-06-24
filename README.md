@@ -7,7 +7,7 @@
 - [x] tidy build
 - [x] database
 - [x] connect UI - database
-- [] Auth
+- [x ] Auth
 - [] image upload
 - [] routing
 - [] server actions
